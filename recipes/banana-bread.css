@@ -14,4 +14,12 @@ body{
 
 ul {
    background-color: rgb(165, 98, 21);
+   
+}
+.home {
+    text-align: center;
+}
+a {
+    display: block;
+    text-align: center;
 }
