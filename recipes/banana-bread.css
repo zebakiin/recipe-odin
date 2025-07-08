@@ -1,0 +1,17 @@
+*{
+    margin: auto;
+
+}
+
+img {
+   display: block;
+
+}
+
+body{
+    padding: 20px;
+}
+
+ul {
+   background-color: rgb(165, 98, 21);
+}
